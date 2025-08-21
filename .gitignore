@@ -1,3 +1,6 @@
 pkg
 main
 postgres-data
+
+# Ignorar arquivos :Zone.Identifier
+**/*.Identifier
